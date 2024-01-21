@@ -21,3 +21,14 @@ Git and Github basics.
 - it help in having back-ups on the remote respository
 - it helps in identifying iussues, and smooth and organised process.
 
+# Purpose of the following Git Commands
+- `git init`: Creates a new Git repository from scratch.
+- `git status`: Indicates whether a change is staged, updated, or untracked.
+- `git add`: Commits changes by adding them to the staging area
+- `git commit`: Creates a new snapshot of the project by committing the changes made in the staging area to the local repository. 
+- `git push`:  this command pushes committed changes local to a remote repository. 
+- `git pull`: this command pushes committed changes to a remote repository. 
+- `git log`: Shows a reverse chronological log of every commit.
+- `git branch`:  Lists all existing branches in the repository.
+- `git merge`: Merges modifications from various branches  
+- `git checkout`: Makes branch switches or brings back files from the working tree. 
