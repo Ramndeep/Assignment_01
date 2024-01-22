@@ -32,3 +32,10 @@ Git and Github basics.
 - `git branch`:  Lists all existing branches in the repository.
 - `git merge`: Merges modifications from various branches  
 - `git checkout`: Makes branch switches or brings back files from the working tree. 
+
+# My Unique Touch
+## Describe something that sets you apart from others:
+- I always had inventive approaches to problem and i always come up with original solutions.
+- I diffrentiate myself by my principles, convinctions, ore distinct outlook on life.
+- I have a lot of lessons that i had learned from my past.
+- 
